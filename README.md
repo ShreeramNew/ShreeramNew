@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Development Engineer (Frontend / Full-Stack)<br>📍 Mangalore, India<br>💼 Building scalable interfaces at Tikanga Pvt Ltd (~1.5+ Years Experience)<br>🎓 BCA University Rank 9 | CGPA: 9.71
+Software Development Engineer (Frontend / Full-Stack)<br>📍 Mangalore, India<br>💼 Building scalable interfaces at Tikanga Pvt Ltd (~2 Years Experience)<br>🎓 BCA University Rank 9 | CGPA: 9.71
 
 
 ## 🌐 Socials:
